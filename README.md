@@ -1,4 +1,4 @@
-# auto-update-firefox-developer-edition
+# auto-update-firefox-developer
 A bash script to automatically update Firefox Developer Edition on Linux.
 
 ## Getting Started
